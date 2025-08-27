@@ -14,6 +14,7 @@ This repository contains the backend code for the Shopping Website, built using 
 - **Email Service:** Spring Mail / SMTP
 
 ## Frontend Link
+The frontend repository for this project can be found here:  
 [Shopping Website Frontend](https://github.com/riya8866/ShopIn-Frontend)
 
 ## Database
