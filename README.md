@@ -14,7 +14,7 @@ This repository contains the backend code for the Shopping Website, built using 
 - **Email Service:** Spring Mail / SMTP
 
 ## Frontend Link
-[Shopping Website Backend](https://github.com/riya8866/ShopIn-Frontend)
+[Shopping Website Frontend](https://github.com/riya8866/ShopIn-Frontend)
 
 ## Database
 - MySQL is used to store all user and product data.
